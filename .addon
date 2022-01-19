@@ -1,0 +1,13 @@
+{
+  "SharedAssets": "*.*",
+  "Title": "Space Station Lambda Map",
+  "Type": "map",
+  "Org": "ssl",
+  "Ident": "space_station_lambda_map",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "HasCode": true,
+  "CodePath": "/code/",
+  "RootNamespace": "Sandbox"
+}
